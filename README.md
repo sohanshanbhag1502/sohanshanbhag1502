@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan Shanbhag</h1>
+
 # 💫 About Me:
 I am a passionate programmer, who is passionate about app and web development and enjoys learning new programming languages and frameworks and is interested in data structures and problem solving.
 
