@@ -23,4 +23,5 @@ I am a passionate programmer, who is passionate about app and web development an
 [![](https://visitcount.itsvg.in/api?id=sohanshanbhag1502&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://leetcode-badge-showcase.vercel.app/api?username=shanbhagsohan&theme=dark&border=no-border&animated=true)<br/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=shanbhagsohan&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
+
